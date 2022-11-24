@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Kanit:wght@300&family=Mitr:wght@400;500&family=Roboto+Mono:ital,wght@0,100;0,300;0,600;1,600&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+:root{
+    --fontSizeGeneral: 15px;
+    --fontSizePc: 18px;
+    --bgHeader: rgb(0, 0, 0);
+    --buttonEcuador: #757505;
+    --buttonNetherlands:#6d0c11;
+    --buttonSenegal:#024619;
+    --buttonQatar: #310450;
+    --borderRadiusImages:90px;
+    --boxShadowImages: 0px 5px 6px 6px rgba(0, 0, 0, 0.507);
+    --fontTitleGeneral: 'Great Vibes', cursive;
+   --animate-delay: 0.1s;
+      
+}
+
+body{
+    font-family: 'Roboto Mono', monospace;;
+}
