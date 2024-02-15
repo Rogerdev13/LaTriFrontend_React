@@ -13,7 +13,7 @@ export const Group = () =>{
 
   
     return (
-      <div className="container">
+      <div className="container ">
         <h1 className='titleGeneral animate__animated animate__fadeInBottomRight'>Group <span className='title__diferent'>A</span> Fifa World Cup</h1>
         <div className="article">
           <nav className="navbar">

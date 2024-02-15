@@ -9,6 +9,7 @@ header{
   margin:0 auto;
 }
 
+
 .navbar__container{
   display:flex;
   justify-content: space-between;
@@ -78,7 +79,9 @@ header{
   border-radius:5px;
   color:#fff;
 }
-
+ .history{
+  margin-bottom:60px;
+ }
 .navbar__group:first-child{
   background-color: var(--buttonEcuador);
 }
